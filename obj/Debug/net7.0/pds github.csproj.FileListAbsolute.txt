@@ -1,0 +1,31 @@
+C:\Users\2023102020009\Documents\pds github\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\2023102020009\Documents\pds github\bin\Debug\net7.0\appsettings.json
+C:\Users\2023102020009\Documents\pds github\bin\Debug\net7.0\pds github.staticwebassets.runtime.json
+C:\Users\2023102020009\Documents\pds github\bin\Debug\net7.0\pds github.exe
+C:\Users\2023102020009\Documents\pds github\bin\Debug\net7.0\pds github.deps.json
+C:\Users\2023102020009\Documents\pds github\bin\Debug\net7.0\pds github.runtimeconfig.json
+C:\Users\2023102020009\Documents\pds github\bin\Debug\net7.0\pds github.dll
+C:\Users\2023102020009\Documents\pds github\bin\Debug\net7.0\pds github.pdb
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.AssemblyInfoInputs.cache
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.AssemblyInfo.cs
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.csproj.CoreCompileInputs.cache
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.RazorAssemblyInfo.cache
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.RazorAssemblyInfo.cs
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\staticwebassets\msbuild.pds github.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\staticwebassets\msbuild.build.pds github.props
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pds github.props
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pds github.props
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\scopedcss\bundle\pds github.styles.css
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\scopedcss\projectbundle\pds github.bundle.scp.css
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.dll
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\refint\pds github.dll
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.pdb
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\pds github.genruntimeconfig.cache
+C:\Users\2023102020009\Documents\pds github\obj\Debug\net7.0\ref\pds github.dll
