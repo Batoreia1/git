@@ -12,4 +12,17 @@
     <Content Remove="Pages\Sobre.razor" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="wwwroot\img\henrique.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\img\Ifro.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\NovaPasta\" />
+  </ItemGroup>
+
 </Project>
