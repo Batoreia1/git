@@ -9,51 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = pds_github
 build_property.RootNamespace = pds_github
-build_property.ProjectDir = C:\Users\2023102020009\Documents\pds github\
+build_property.ProjectDir = C:\Users\2023102020009\Documents\GitHub\git\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\2023102020009\Documents\pds github
+build_property.MSBuildProjectDirectory = C:\Users\2023102020009\Documents\GitHub\git
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/2023102020009/Documents/pds github/App.razor]
+[C:/Users/2023102020009/Documents/GitHub/git/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2023102020009/Documents/pds github/Pages/Counter.razor]
+[C:/Users/2023102020009/Documents/GitHub/git/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2023102020009/Documents/pds github/Pages/FetchData.razor]
+[C:/Users/2023102020009/Documents/GitHub/git/Pages/Curriculo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmljdWxvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2023102020009/Documents/GitHub/git/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2023102020009/Documents/pds github/Pages/Index.razor]
+[C:/Users/2023102020009/Documents/GitHub/git/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2023102020009/Documents/pds github/Shared/SurveyPrompt.razor]
+[C:/Users/2023102020009/Documents/GitHub/git/Pages/Sobreoautor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29icmVvYXV0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2023102020009/Documents/GitHub/git/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2023102020009/Documents/pds github/_Imports.razor]
+[C:/Users/2023102020009/Documents/GitHub/git/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2023102020009/Documents/pds github/Shared/MainLayout.razor]
+[C:/Users/2023102020009/Documents/GitHub/git/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0awuricd1f
 
-[C:/Users/2023102020009/Documents/pds github/Shared/NavMenu.razor]
+[C:/Users/2023102020009/Documents/GitHub/git/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-xmksx8lghw
 
-[C:/Users/2023102020009/Documents/pds github/Pages/Error.cshtml]
+[C:/Users/2023102020009/Documents/GitHub/git/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2023102020009/Documents/pds github/Pages/_Host.cshtml]
+[C:/Users/2023102020009/Documents/GitHub/git/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

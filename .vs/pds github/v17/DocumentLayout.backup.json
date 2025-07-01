@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|c:\\users\\2023102020009\\documents\\github\\git\\pages\\sobreoautor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|solutionrelative:pages\\sobreoautor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|c:\\users\\2023102020009\\documents\\github\\git\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|c:\\users\\2023102020009\\documents\\github\\git\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|c:\\users\\2023102020009\\documents\\github\\git\\pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|solutionrelative:pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|c:\\users\\2023102020009\\documents\\github\\git\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|c:\\users\\2023102020009\\documents\\github\\git\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|c:\\users\\2023102020009\\documents\\github\\git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D7901-DF5B-4309-9B2C-E77E08D4A360}|pds github.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sobreoautor.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Pages\\Sobreoautor.razor",
+              "RelativeDocumentMoniker": "Pages\\Sobreoautor.razor",
+              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Pages\\Sobreoautor.razor",
+              "RelativeToolTip": "Pages\\Sobreoautor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T20:25:48.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T20:25:28.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Curriculo.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Pages\\Curriculo.razor",
+              "RelativeDocumentMoniker": "Pages\\Curriculo.razor",
+              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Pages\\Curriculo.razor",
+              "RelativeToolTip": "Pages\\Curriculo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T20:12:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T19:12:30.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T19:02:14.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T19:02:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:02:12.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

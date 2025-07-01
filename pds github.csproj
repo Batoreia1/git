@@ -7,4 +7,9 @@
     <RootNamespace>pds_github</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Pages\Sobre o autor.razor" />
+    <Content Remove="Pages\Sobre.razor" />
+  </ItemGroup>
+
 </Project>

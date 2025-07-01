@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pb+Z0S3cW6BKewRPEpB4fgXpjaLc/VdPnL/rO1j2Xh0=",
+  "Hash": "uT5HgzuKSL988IvOgqYOcyubJLeW6MfLkh3xffbly+I=",
   "Source": "pds github",
   "BasePath": "_content/pds github",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "pds github\\wwwroot",
       "Source": "pds github",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\obj\\Debug\\net7.0\\scopedcss\\bundle\\pds github.styles.css",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\obj\\Debug\\net7.0\\scopedcss\\bundle\\pds github.styles.css",
       "SourceId": "pds github",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/pds github",
       "RelativePath": "pds github.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\2023102020009\\Documents\\pds github\\obj\\Debug\\net7.0\\scopedcss\\bundle\\pds github.styles.css"
+      "OriginalItemSpec": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\obj\\Debug\\net7.0\\scopedcss\\bundle\\pds github.styles.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\pds github.bundle.scp.css",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\pds github.bundle.scp.css",
       "SourceId": "pds github",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/pds github",
       "RelativePath": "pds github.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\2023102020009\\Documents\\pds github\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\pds github.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\pds github.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\css\\site.css",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\favicon.png",
       "SourceId": "pds github",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\pds github\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2023102020009\\Documents\\GitHub\\git\\wwwroot\\",
       "BasePath": "_content/pds github",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

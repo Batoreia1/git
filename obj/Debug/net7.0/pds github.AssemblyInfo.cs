@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pds github")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf968d43c52eb59f6a2743a2cab0a11799fb206b")]
 [assembly: System.Reflection.AssemblyProductAttribute("pds github")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pds github")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
